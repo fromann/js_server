@@ -1,14 +1,15 @@
 {
-    "author":"Froan",
-    "homePage":"https://froan.cn",
-    "data":[
+    "posts":[
         {
-            "name":"ss",
-            "city":"济南"
+            "id":1,
+            "title":"hello"
         },
         {
-            "name":"sdp",
-            "city":"泰安"
+            "id":2,
+            "title":"hello2"
         }
-    ]
+    ],
+    "profile":{
+        "name":"typicode"
+    }
 }
